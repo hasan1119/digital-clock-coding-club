@@ -38,4 +38,4 @@ setInterval(function () {
     }
 
 
-}, 1)
+}, 1000)
